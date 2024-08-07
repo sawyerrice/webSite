@@ -1,0 +1,138 @@
+/* GLOBAL STYLES */
+
+
+
+ body {
+    
+    background-image: url("paint2.jpeg");
+    background-color: rgba(0, 0, 0, 0.5);
+    
+  background-size: cover; /* or "contain" depending on what you want */
+  /* background-position: center center; */
+  background-repeat: no-repeat;
+  position: absolute;
+ 
+  
+ 
+ }
+  .prof-pic {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+  }
+
+  .nameTitle {
+    color: black;
+    font-size: 50px;
+    font-family: "Garamond";
+    text-align: center;
+    
+    
+  }
+
+  .projTitle {
+    color: black;
+    font-size: 30px;
+    font-family: "Garamond";
+    
+    padding-left: 22.5%;
+    
+    
+    
+  }
+
+  .workTitle {
+    color: black;
+    font-size: 30px;
+    font-family: "Garamond";
+    
+    padding-left: 20%;
+    
+    
+    
+  }
+
+  .schoolTitle {
+    color: black;
+    font-size: 30px;
+    font-family: "Garamond";
+    
+    text-align: center;
+    
+    
+    
+    
+  }
+
+  .dateTitle {
+    color: black;
+    font-size: 15px;
+    font-family: "Garamond";
+    
+    padding-left: 20%;
+    
+    
+    
+  }
+
+  .ctr {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .mtext {
+    font-size: 30px;
+    font-family: "Garamond";
+    padding-left: 25%;
+    padding-right: 25%;
+    
+
+
+  }
+
+  .hmpage{
+    padding-top: 10%;
+  }
+
+  .nav{
+    font-size: 40px;
+    font-family: "Garamond";
+
+    display: flex;
+    font-weight: bold;
+    
+
+    justify-content: space-around;
+    width: 100%;
+  }
+
+  .item{
+    padding-top: 2%;
+    flex: 1; /* Equal width for each item */
+    text-align: center; /* Center content within each item */
+  }
+
+  a {
+    text-decoration: none; 
+    color: black; 
+}
+
+.eduText {
+  font-size: 25px;
+  font-family: "Garamond";
+  padding-left: 20%;
+  padding-right: 20%;
+  
+
+
+}
+
+  
+
+  
+    
+
+
+  
